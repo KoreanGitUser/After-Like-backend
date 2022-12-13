@@ -1,0 +1,11 @@
+numpy
+sqlalchemy
+fastapi
+asgi-cors-middleware
+python-time
+jwt
+boto3
+pymysql
+scikit-learn
+uvicorn
+passlib
